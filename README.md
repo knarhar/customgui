@@ -1,2 +1,2 @@
-# customgui
-CustomTkinter (Python)
+# CustomGUI
+using CustomTkinter (Python)
